@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+      <class name="test.Annotations">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:test.Annotations@6ebc05a6]" name="beforetest" is-config="true" duration-ms="10" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:test.Annotations@6ebc05a6]" name="beforemethod" is-config="true" duration-ms="0" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:test.Annotations@6ebc05a6]" name="method1" duration-ms="6" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:test.Annotations@6ebc05a6]" name="aftermethod" is-config="true" duration-ms="1" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:test.Annotations@6ebc05a6]" name="method2" duration-ms="1" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:test.Annotations@6ebc05a6]" name="beforemethod" is-config="true" duration-ms="0" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:test.Annotations@6ebc05a6]" name="aftermethod" is-config="true" duration-ms="0" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:test.Annotations@6ebc05a6]" name="aftertest" is-config="true" duration-ms="0" started-at="2021-02-26T04:42:21 UTC" finished-at="2021-02-26T04:42:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- test.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
